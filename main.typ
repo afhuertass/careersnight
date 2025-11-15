@@ -119,7 +119,7 @@ Desafios diarios:
 - Ah fui yo.
 - Mantener codigo ajeno y viejo
 
-La mejor parte de mi trabajo y mas importante leccion: Contar con un buen equipo, buena gente y ambiente laboral.
+La mejor parte de mi trabajo y mas importante leccion: Contar con un buen equipo, del cual aprender y colaborar, asi como fomentar un buen ambiente laboral.
   #colbreak()
 
 #figure(
